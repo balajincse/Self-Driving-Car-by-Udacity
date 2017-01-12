@@ -3,12 +3,12 @@ Self Driving Car Challenge Participation in Udacity.
 
 ## Dependencies
 
-* [**Tensorflow - GitHub](https://github.com/tensorflow/tensorflow)
-* [**Tensorflow](https://www.tensorflow.org/)
-* [**Keras](https://keras.io/)
-* [**OpenCV](http://opencv.org/)
-* [**NumPy](http://www.numpy.org/)
-* [**SciPy](https://www.scipy.org/)
+* [**Tensorflow - GitHub**](https://github.com/tensorflow/tensorflow)
+* [**Tensorflow**](https://www.tensorflow.org/)
+* [**Keras**](https://keras.io/)
+* [**OpenCV**](http://opencv.org/)
+* [**NumPy**](http://www.numpy.org/)
+* [**SciPy**](https://www.scipy.org/)
 
 ### Datasets
 
